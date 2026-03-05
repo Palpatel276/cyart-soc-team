@@ -16,7 +16,7 @@ This folder contains the practical implementation of SOC monitoring, alert manag
 Contains the SOC incident report and notes.
 
 ### Screenshots
-Contains evidence screenshots of alerts and attack detection.
+Contains evidence screenshots of alerts and attack detection in the documentation report.
 
 ### Workflow
 Step-by-step SOC investigation process.
