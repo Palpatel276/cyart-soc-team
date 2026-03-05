@@ -25,6 +25,5 @@ cyart-soc-team
 │
 ├── Week 2
 │   ├── Documentation
-│   ├── Screenshots
 │   ├── Workflow
 │   └── README.md
