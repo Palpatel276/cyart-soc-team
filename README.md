@@ -1,29 +1,22 @@
-# CyART SOC Team Repository
+# CyArt SOC Team — Practical Repository
 
-This repository contains SOC practical exercises and documentation.
+This repository contains weekly documentation and practical work completed as part of the CyArt SOC training program.
 
-## Week 2 – SOC Monitoring and Incident Response
+## 📂 Contents
 
-Activities performed:
-- Alert management
-- Alert triage
-- Attack simulation
-- Incident response
-- Evidence preservation
+### Week 2
+Includes documentation, screenshots, and workflow for Week 2 activities.
 
-## Tools Used
-- Wazuh
-- Metasploit
-- CrowdSec
-- FTK Imager
-- VirusTotal
-- AlienVault OTX
+### Week 3
+Includes advanced SOC operations such as:
 
-## Repository Structure
+- Advanced Log Analysis
+- Threat Intelligence Integration
+- Incident Escalation
+- Alert Triage
+- Evidence Preservation
+- Capstone SOC Workflow Simulation
 
-cyart-soc-team
-│
-├── Week 2
-│   ├── Documentation
-│   ├── Workflow
-│   └── README.md
+---
+
+Author: Pal Piyushkumar Patel  
