@@ -2,8 +2,34 @@
 
 This repository contains weekly documentation and practical work completed as part of the CyArt SOC training program.
 
-## 📂 Contents
+## 📂 Repository Contents
 
+### Week 1 — SOC Fundamentals & Security Monitoring
+
+#### 🔹 Theoretical Focus
+- Purpose and structure of a Security Operations Center (SOC)
+- SOC roles (Tier 1, Tier 2, Tier 3 analysts, SOC Manager)
+- Security monitoring concepts and objectives
+- Log management fundamentals and lifecycle
+- Basic security concepts (CIA Triad, Risk, Threat, Vulnerability)
+- Security tools overview (SIEM, IDS/IPS, EDR, Vulnerability Scanners)
+- Incident response lifecycle (NIST SP 800-61)
+- Documentation standards for SOC operations
+
+#### 🔹 Practical Activities
+- Log analysis using Windows Event Viewer
+- Detection of failed login attempts (Event ID 4625)
+- Basic monitoring dashboard exploration
+- Documentation of security events
+- Creation of a simple incident report template
+- Alert rule understanding and testing in SIEM tools
+
+#### 🔹 Key Skills Developed
+- Understanding SOC operations workflow
+- Basic log analysis techniques
+- Security monitoring fundamentals
+- Incident documentation practices
+- Familiarity with SOC tools and frameworks
 
 ---
 
